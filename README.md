@@ -2,7 +2,7 @@
 In this project, I use R to wrangling and visualize Toronto COVID 19 data.
 
 :briefcase::briefcase:
-Highlight of the code
+Highlight of my code
 
 ```{r cases_dw, warning = FALSE, echo=TRUE}
 #To replace all NAs in numeric columns, only work on columns
